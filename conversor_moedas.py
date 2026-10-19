@@ -1,4 +1,4 @@
-# Projeto simples de conversor de moedas
+# Sistema conciso de conversor de moedas
 # Autor: Marco Salco
 
 
